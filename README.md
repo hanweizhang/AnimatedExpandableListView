@@ -1,3 +1,4 @@
 AnimatedExpandableListView
 ==========================
-See wiki
+###Demo
+![Demo](/demo.gif)
